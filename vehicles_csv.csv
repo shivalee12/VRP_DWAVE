@@ -1,0 +1,11 @@
+vehicle type,USE,LOAD(KG),LOAD( M3),load capacity in volume,Mileage,cost,no of vehicles,speed matrix
+Small Vans,used for last-mile deliveries or in urban areas with limited space. They have a small cargo capacity,"500 kg to 1,200 kg", 6 cubic meters,40,20 to 25 kilometers per liter of diesel fuel,4 to 5 lakhs INR,1,speed_small
+Medium Vans,transporting medium-sized loads or making deliveries to multiple locations within a local area.,"1,000 kg and 1,800 kg",12 cubic meters ,60,15 to 16 kilometers per liter (km/l) for diesel variants.,8 lakhs INR,1,speed_medium
+Large Vans,local or regional deliveries,"1,500 kg to 3,500 kg",30 cubic meters,120,17 to 20 kilometers per liter (km/l),6-8 lakhs,0,speed_large
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
